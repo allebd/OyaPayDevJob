@@ -5,9 +5,9 @@
 * [About](#about)
 
 ## Instructions
-To register has an admin, use the default home page "/index.php"  
+To register as an admin, use the default home page "/index.php"  
 To login as an admin, use "/login.php"  
-To login invited agents, use "/invitedagent.php"  
+To login as invited agent, use "/invitedagent.php"  
 
 ## About
 A basic backend for a merchant.
